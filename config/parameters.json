@@ -1,0 +1,11 @@
+{
+    "clustering_method": "KMeans",
+    "n_clusters": 17,
+    "seed": 42,
+    "n_init": 10,
+    "num_stocks": 10,
+    "parallel": false,
+    "threshold": 0.25,
+    "buy_amount": 100
+
+}
